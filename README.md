@@ -1,2 +1,3 @@
-# skinnygodmode
-skinnygodmode
+while true do
+rconsoleprint("NIGGER ")
+end
